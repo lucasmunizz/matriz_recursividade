@@ -3,6 +3,8 @@
 
 O intuito é praticar o conceito de divisão e conquista, utilizando a recursividade.
 
+Para isso, gero um arquivo txt informando quantos quadrados de diversas dimensões possuem na informada matriz
+
 
 Compilar:
 ep1_13728941.c -o ep1_13728941
